@@ -3,11 +3,11 @@ module github.com/LwwL-123/go-substrate-crypto
 go 1.17
 
 require (
-	github.com/ChainSafe/go-schnorrkel v1.0.0
+	github.com/ChainSafe/go-schnorrkel v0.0.0-20200626160457-b38283118816
 	github.com/btcsuite/btcutil v1.0.2
-	github.com/ethereum/go-ethereum v1.10.12
+	github.com/ethereum/go-ethereum v1.9.24
 	github.com/gtank/ristretto255 v0.1.2
-	golang.org/x/crypto v0.0.0-20211108221036-ceb1ce70b4fa
+	golang.org/x/crypto v0.0.0-20200820211705-5c72a883971a
 )
 
 require (
